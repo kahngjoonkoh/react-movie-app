@@ -1,3 +1,3 @@
 # React Movie App
 
-A simple movie app created with react.
+A simple movie app created with react. Available on Github Pages
